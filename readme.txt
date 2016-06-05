@@ -1,4 +1,3 @@
 "Hello!",
 "TESTING!",
-NEW LINE
-COMMIT
+WHERE ARE WE?
